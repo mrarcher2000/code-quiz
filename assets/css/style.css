@@ -1,0 +1,44 @@
+*:focus {
+    outline: 0;
+}
+
+main {
+    margin: 5%;
+}
+
+.text-lightpurple {
+    color: #f58aff;
+}
+
+.bg-lightpurple {
+    background-color: #f58aff;
+}
+
+.text-darkpurple {
+    color: #741c94;
+}
+
+.bg-darkpurple {
+    background-color: #741c94;
+}
+
+.link:hover, .link::after {
+    text-decoration: none;
+    color: #f58aff;
+}
+
+.quiz {
+    margin: 10%;
+}
+
+.quiz-title {
+    font-size: 48px;
+}
+
+.quiz-content {
+    font-size: 24px;
+}
+
+.quiz-button:hover {
+    background-color: #f58aff;
+}
